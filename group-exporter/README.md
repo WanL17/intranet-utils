@@ -5,3 +5,7 @@ Export all of your projects and groups from the Epitech Intranet.
 ## intra.epitech.eu
 
 If you're looking to export groups from intra, look into the [intra folder](./intra/README.md).
+
+## my.epitech.eu
+
+If you're looking to export groups from my, look into the [my folder](./my/README.md).
