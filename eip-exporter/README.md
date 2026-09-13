@@ -1,5 +1,9 @@
 # eip-exporter
 
+> [!CAUTION]
+>
+> Currently broken due to changes to the `/api/public/projects` endpoint.
+
 Easily export all EIP projects
 
 ## Usage

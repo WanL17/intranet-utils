@@ -108,6 +108,7 @@ def main() -> None:
     else:
         cities = DEFAULT_CITIES
 
+    print("WARNING: currently broken! still continuing\n")
     print(f"Promotion year set to {args.promotion_year}")
     for i, city in enumerate(cities):
         print(f"Exporting city {city}")
