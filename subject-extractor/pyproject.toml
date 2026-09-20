@@ -1,0 +1,10 @@
+[project]
+name = "subject-extractor"
+version = "0.1.0"
+description = "Extract subjects from My intranet"
+readme = "README.md"
+authors = []
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.34.2",
+]
