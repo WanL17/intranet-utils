@@ -1,6 +1,10 @@
 # mya-tool
 
-Tool to interact with MYA
+> [!WARNING]
+> This tool is now out of date. It is valid only for https://epitech.globalcampus.app/
+> The new site is now https://mya.epitech.eu/ which isn't exported yet by the tool.
+
+Tool to interact with [MYA](https://epitech.globalcampus.app/)
 
 ## Usage
 
